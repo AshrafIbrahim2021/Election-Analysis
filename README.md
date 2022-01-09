@@ -6,8 +6,11 @@
 ### Election-Audit Results: Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
 
 1- the total votes for this election is 369711. 
+
 2- there is three counties as following 
+
 3- 10.5% of the votes for Jefferson county with total votes 38855
+
 4- 82.8% of the votes for Denver county with total votes 306055
 5- 6.7% of the votes for Arapahoe county with total votes 24801
 6- the largest county of votes is Denver
